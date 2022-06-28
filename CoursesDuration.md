@@ -1,5 +1,5 @@
 ## The duration of the courses are:
-1)4 weeks
+1)4 weeks<br>
 2)4 weeks
 3)3 weeks
 4)5 weeks
