@@ -1,4 +1,4 @@
-The duration of the courses are:
+## The duration of the courses are:
 1)4 weeks
 2)4 weeks
 3)3 weeks
