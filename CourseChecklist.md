@@ -1,4 +1,4 @@
-Courses are:
+## *Courses are:*
 - [x] 1)What is Data Science
 - [x] 2)Tools for data science
 - [x] 3)Data Science Methodology
