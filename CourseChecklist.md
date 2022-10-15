@@ -1,0 +1,11 @@
+Courses are:
+- [x] 1)What is Data Science
+- [x] 2)Tools for data science
+- [x] 3)Data Science Methodology
+- [x] 4)Python for data science and ai and development
+- [ ] 5)Python project for data science
+- [ ] 6)Database and sql for data science with python
+- [ ] 7)Data analysis with python
+- [ ] 8)Data visulization with python
+- [ ] 9)Machine learning with python
+- [ ] 10)Applied data science Capstone
